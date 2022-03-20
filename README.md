@@ -10,4 +10,4 @@ Para o layout, resolvi utilizar um pouco de ```CSS Grid Layout``` para facilitar
 Toda a funcionalidade do projeto foi feita em Javascript utilizando conceitos de accordion list para selecionar, adicionar classes e manipular o dom com códigos como ```insertAdjacentElement``` para trocar posições de um elemento em relação a outro.
 
 
-**[Você pode acessar o projeto final clicando aqui!]()** 🎈
+**[Você pode acessar o projeto final clicando aqui!](https://rafaelgomesxavier.github.io/Interactive-rating-component/)** 🎈
